@@ -6,6 +6,7 @@ This is a chat client - open new windows in incognito mode and communicate with 
 
 1. `npm i`
 2. `npm start`
+- `localhost:3000`
 
 *Work gravatar-system by email*
 
